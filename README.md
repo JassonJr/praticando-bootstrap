@@ -12,3 +12,6 @@ Neste projeto do curso aprendemos a aplicar os seguintes conceitos do Bootstrap:
 - Formulários e mais.
 
 No momento em que este projeto foi feito o Bootstrap já está em sua versão 5.3, e é a que utilizei para o desenvolvimento.
+
+
+## <a href="https://jassonjr.github.io/praticando-bootstrap/">Deploy do projeto.</a>
