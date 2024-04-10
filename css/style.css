@@ -22,7 +22,7 @@ body {
     padding: 1rem;
 }
 
-footer a {
+.text-link {
     color: #007bff;
     text-decoration: none;
     background-color: transparent;
